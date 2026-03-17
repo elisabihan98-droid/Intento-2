@@ -1,0 +1,96 @@
+{
+  "brand": "EASY",
+  "tagline": "El Futuro del Retail de Mejoramiento del Hogar",
+  "client": "Cencosud",
+  "presenter": "Propuesta de Layout Flagship",
+  "year": "2026",
+  "zones": [
+    {
+      "id": 1,
+      "name": "Plaza Central",
+      "subtitle": "El nuevo punto de entrada",
+      "icon": "◈",
+      "color": "#E8A020",
+      "highlights": ["Gran pantalla / media wall", "Cafetería premium", "Punto de inspiración", "Eventos & workshops"],
+      "objective": "Convertir la tienda en un lugar donde quedarse, no solo comprar",
+      "trend": "Hub Social Urbano"
+    },
+    {
+      "id": 2,
+      "name": "Inspiración",
+      "subtitle": "Lifestyle & Design",
+      "icon": "◉",
+      "color": "#4A9EBF",
+      "highlights": ["Cocina completa funcional", "Living completo", "Jardín exterior", "QR por proyecto completo"],
+      "objective": "Retail inmersivo donde el cliente vive el producto antes de comprarlo",
+      "trend": "Showrooms Experienciales"
+    },
+    {
+      "id": 3,
+      "name": "Proyecto",
+      "subtitle": "Project Studio",
+      "icon": "◐",
+      "color": "#7B5EA7",
+      "highlights": ["Estudio de cocina", "Estudio de baño", "Estudio de closet", "Arquitectos & Diseñadores"],
+      "objective": "Vender proyectos completos: diseño + materiales + instalación",
+      "trend": "La Zona Más Innovadora"
+    },
+    {
+      "id": 4,
+      "name": "Profesional",
+      "subtitle": "Pro Construction Hub",
+      "icon": "◧",
+      "color": "#D4523A",
+      "highlights": ["Layout warehouse", "Pro Desk grande", "Drive-in dedicado", "Compra por volumen"],
+      "objective": "40–50% de la tienda orientada al cliente profesional",
+      "trend": "B2B en Retail"
+    },
+    {
+      "id": 5,
+      "name": "Herramientas & Tech",
+      "subtitle": "Demo Zone",
+      "icon": "◑",
+      "color": "#3A7D44",
+      "highlights": ["Mesas demo interactivas", "Pruebas de herramientas", "Talleres prácticos", "Zona muy experiencial"],
+      "objective": "Zona interactiva que convierte la compra en una experiencia",
+      "trend": "Try Before You Buy"
+    },
+    {
+      "id": 6,
+      "name": "Zona Digital",
+      "subtitle": "Omnicanalidad",
+      "icon": "◈",
+      "color": "#1B7FA8",
+      "highlights": ["Pantallas de diseño 3D", "Realidad aumentada", "Scan & Go", "Click & Collect"],
+      "objective": "Integrar online y tienda física en un mismo recorrido fluido",
+      "trend": "Phygital Retail"
+    },
+    {
+      "id": 7,
+      "name": "Comunidad",
+      "subtitle": "Centro de Formación",
+      "icon": "◎",
+      "color": "#C07840",
+      "highlights": ["Cursos DIY", "Formación profesional", "Demos de herramientas", "Centro de conocimiento"],
+      "objective": "La tienda como ecosistema de aprendizaje y comunidad",
+      "trend": "Retail como Plataforma"
+    },
+    {
+      "id": 8,
+      "name": "Logística Rápida",
+      "subtitle": "Checkout sin fricción",
+      "icon": "◒",
+      "color": "#5B8FA8",
+      "highlights": ["Self checkout", "Retiro rápido", "Drive-in materiales", "Zero fricción"],
+      "objective": "Reducir al mínimo la fricción en el checkout final del recorrido",
+      "trend": "Frictionless Commerce"
+    }
+  ],
+  "trends": [
+    { "name": "Omnicanalidad", "description": "Integración física-digital sin fricciones" },
+    { "name": "Layout Flexible", "description": "Espacios modulares y adaptables" },
+    { "name": "Experiencia Inmersiva", "description": "El cliente vive el producto" },
+    { "name": "Espacios Pro", "description": "Foco en profesionales y proyectos" },
+    { "name": "Sostenibilidad", "description": "Diseño responsable y circular" }
+  ]
+}
